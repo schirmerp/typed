@@ -6,6 +6,13 @@ animated typing with js
 #regardless... I decided to re-write them in vanilla.js cause when its all said and done, Who doesnt love a little vanilla!
 
 **backspace.js contains the function for creating the typing visual followed by backspacing**
+
+
+
+
 **newline.js contains the function for continuing strings under preceding strings**
+
+
+
 
 **currently must manually change enterance point in index.html**
