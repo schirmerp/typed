@@ -1,4 +1,4 @@
-const testString = ['fuck this shit', 'you dum muda fucka']
+const testString = ['first sentence', 'second sentence']
 const testElement = 'text'
 
 function back(strings, element){

@@ -1,5 +1,5 @@
 const textDisplay = document.getElementById('text')
-const phrases = ['Look ma My JS is typing', 'I dont even have a package.json', 'so fuck all that nonsense']
+const phrases = ['Look ma My JS is typing', 'I dont even have a package.json', 'so heres another sentence']
 
 let i = 0
 let j = 0
